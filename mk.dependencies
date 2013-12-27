@@ -15,8 +15,8 @@
         "target_path": "kernel/samsung/smdk4412"
     },
     {
-        "repository": "android_vendor_samsung_n7105",
-        "target_path": "vendor/samsung/n7105"
+        "repository": "android_vendor_samsung_t0lte",
+        "target_path": "vendor/samsung/t0lte"
     },
     {
         "repository": "android_hardware_samsung",
